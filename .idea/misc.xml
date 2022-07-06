@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/drawable/circle_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/drawable/ic_job.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/drawable/layout_border.xml" value="0.3731481481481482" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/drawable/shadow_circle_image.xml" value="0.3731481481481482" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/layout/circular_progress_indicator.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/layout/fragment_setting.xml" value="0.264" />
+        <entry key="..\:/Users/anhta/AndroidStudioProjects/FakeSlink/app/src/main/res/menu/bottom_navigation_bar.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.34375" />
+        <entry key="app/src/main/res/drawable/ic_study_corner_24.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="app/src/main/res/layout/custom_line.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/dynamic_text.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.1625" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_navigation_bar.xml" value="0.32760416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

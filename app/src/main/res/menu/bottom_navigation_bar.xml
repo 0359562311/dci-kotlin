@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+    <item android:id="@+id/bottom_nav_notification"
+        android:title="@string/notifications"
+        android:checkable="true"
+        android:icon="@drawable/ic_notification" />
+    <item android:id="@+id/bottom_nav_study_corner"
+        android:title="@string/study_corner"
+        android:checkable="true"
+        android:icon="@drawable/ic_study_corner_24" />
+    <item android:id="@+id/bottom_nav_facility"
+        android:title="@string/facility"
+        android:checkable="true"
+        android:icon="@drawable/ic_service_24" />
+    <item android:id="@+id/bottom_nav_personal_info"
+        android:title="@string/Profile"
+        android:checkable="true"
+        android:icon="@drawable/ic_person_pin_24" />
+</menu>
